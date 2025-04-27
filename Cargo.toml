@@ -1,0 +1,10 @@
+[package]
+name = "static-async-concurrency"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+futures = { version = "0.3.31", default-features = false }
+generic-array = "1.2.0"
+pin-project-lite = "0.2.16"
+typenum = "1.18.0"
