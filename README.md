@@ -1,13 +1,14 @@
 # static-async-concurrency
 
 ## Description
-Project static-async-concurrency
+"Static async concurrency". A library for managing concurrency in `no_std` or static environments.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Enable async concurrency without allocation
+- [ ] Provide static executors
 
 ## Progress
-- [ ] Initial setup
+- [ ] Crate initialized
 
 ---
 *AI assisted*
